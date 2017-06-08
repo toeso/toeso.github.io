@@ -1,0 +1,15 @@
+Tom:
+  name: "Tom"
+  uri: "https://comelonas.tomt.it"
+  bio: "Italiano de habla alemana. Viajero. Cuentista."
+  avatar: "/assets/images/bio-photo-t.jpg"
+  twitter: "torggler"
+  instagram: "tomt_it"
+  github: "tomtorggler"
+
+Virgi:
+  name: "Virgi"
+  uri: "https://comelonas.tomt.it"
+  bio: "Venezolana deplazada. Amante de idiomas. Lo que sea, en frappé."
+  avatar: "/assets/images/bio-photo-v.jpg"
+  instagram: "virgizab"

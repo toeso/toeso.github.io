@@ -1,6 +1,7 @@
 ---
 title: "El cuento del billete falso"
 author: "Tom"
+excerpt: "De un reciente viaje al centro bogotano y un billete falso"
 categories: "Cuento"
 tags: 
  - TransMilenio
@@ -22,7 +23,7 @@ Caminando por las calles del centro me dí cuenta de las omnipresentes construcc
 
 # Haciendo mercado
 
-Una vez terminado el cóctel me regresé al norte agarrando un TransMilenio - servicio facíl - en la estación de las Aguas. Al rato llegué a mi destino y, tomando un bicitaxi, me acerqué a la casa. Antes de entrar pasé por un almacén en el vecindario a abastecerme de alimientos para la semana que apenas estaba empezando. 
+Una vez terminado el cóctel me regresé al norte agarrando un TransMilenio - servicio fácil - en la estación de las Aguas. Al rato llegué a mi destino y, tomando un bicitaxi, me acerqué a la casa. Antes de entrar pasé por un almacén en el vecindario a abastecerme de alimentos para la semana que apenas estaba empezando. 
 
 En el punto de pagar, sin pensarlo tanto, mejor dicho, sin darme cuenta alguna, saqué unos pesos y se les di a la señorita cajera. Ella, si bien era tarde, despierta y alerta me miró con un toque de seriedad y dijo: 
 
@@ -40,9 +41,9 @@ fue la respuesta de la vecina cajera. Ahora, vuelto de las nubes y presente, me 
 
 Pidiendole disculpas a la señorita y sacando otro billete del mismo valor, logré pagar mi mercado y me fui a la casa.
 
-# La moral
+# La moraleja
 
-En mi opinión, la moral de esta historia tiene que ser: 
+En mi opinión, la moraleja de esta historia tiene que ser: 
 
 > Si andas por El Centro, ¡ojo con el cambio!
 

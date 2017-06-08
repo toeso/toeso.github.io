@@ -1,4 +1,6 @@
 # main links
 main:
+   - title: "Acerca de"
+     url: /acerca-de/
    - title: "Quiénes somos"
      url: /quienes-somos/

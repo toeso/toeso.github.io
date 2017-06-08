@@ -15,11 +15,11 @@ En estos días me escapé al centro de la ciudad millonaria donde estoy pasando 
 
 Obviamente, pasando todo el día en la calle, consumí varias cositas. Empecé por el desayuno, luego me provocaron unos juguitos de naranja y algo más para picar en la tarde. Esas cosas fueron pagadas en efectivo, pues los vendedores ambulantes rara vez aceptan tarjetas.
 
-![la candelaria 1]({{site.url}}/assets/images/posts/lacandelaria1.jpg)
+{% include figure image_path="/assets/images/posts/lacandelaria1.jpg" alt="en el centro" %}
 
 Caminando por las calles del centro me dí cuenta de las omnipresentes construcciones, en general me pareció más arreglado que la última vez que estuve allá. 
 
-![la candelaria 2]({{site.url}}/assets/images/posts/lacandelaria2.jpg)
+{% include figure image_path="/assets/images/posts/lacandelaria2.jpg" alt="la candelaria" %}
 
 # Haciendo mercado
 
@@ -35,9 +35,9 @@ Yo, medio dormido y con la cabeza todavía en la candelaria, pregunté "¿En ser
 
 fue la respuesta de la vecina cajera. Ahora, vuelto de las nubes y presente, me puse a mirar ese billete, y claro, era falsísimo.
 
-![billete 1]({{site.url}}/assets/images/posts/billete1.jpg)
+{% include figure image_path="/assets/images/posts/billete1.jpg" alt="billete falso 1" %}
 
-![billete 2]({{site.url}}/assets/images/posts/billete2.jpg)
+{% include figure image_path="/assets/images/posts/billete2.jpg" alt="billete falso 2" caption="Billete falso: COP 2000" %}
 
 Pidiendole disculpas a la señorita y sacando otro billete del mismo valor, logré pagar mi mercado y me fui a la casa.
 

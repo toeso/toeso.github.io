@@ -37,9 +37,9 @@ A los 20 kilómetros llegué a Chía y cruzé el pueblo por la Calle 2 que al ra
 
 # La subida a Yerbabuena
 
-La primera salida de la Autopista me llevó directamente al pie de la salida que estaba buscando. La salida empieza bien parada pero a los pocos metros la pendiente se normaliza y me permitió seguir más tranquilo. Según Strava me demoré casi 20 minutos subiendo los 3,6 kilómetros hasta la Vara con una velocidad de 11 km/h al promedio.
+La primera salida de la Autopista me llevó directamente al pie de la salida que estaba buscando. La salida empieza bien parada, pero a los pocos metros la pendiente se normaliza y me permitió seguir más tranquilo. Según Strava me demoré casi 20 minutos subiendo los 3,6 kilómetros hasta la Vara con una velocidad de 11 km/h al promedio.
 
-Desde la Vara seguí hasta la portería de Yerbabuenita donde cogí la calle hacia la derecha. A principios esa se vio bien pero a unos kilómetros se convertió en un camino de tierra y empezó a bajar con un pendiente importante. 
+Desde la Vara seguí hasta la portería de Yerbabuenita donde cogí la calle hacia la derecha. A principios esa se vio bien, pero a unos kilómetros se convertió en un camino de tierra y empezó a bajar con un pendiente importante. 
 
 {% include gallery id="gallery1" caption="Unas fotos de la salida" %}
 
@@ -47,11 +47,20 @@ Desde la Vara seguí hasta la portería de Yerbabuenita donde cogí la calle hac
 
 Siguiendo con cuidado y muy despacio, el camino de tierra daba por otra calle que, por fin, volvió ser pavimentada. O por lo menos así me pareció. Resulta que esta calle tiene varios pedazos pavimentados pero la mayor parte también está embarrada. Así pasé unos 15 kilómetros un poco incomodos por tener una bici de ruta, poero demasiado bellos con respecto al paisaje. 
 
+# Regresando a Bogotá
+
+LLegué al pueblo la Calera y me regresé hacia Bogotá por la calle principal. Me tocó una última subida hasta el peaje de los Patios y después bajé pasando por los miradores al lado de la calle. Entrando a Bogotá desde el oriente, llegué a la septima con ochenta-y-pico y me devolví al norte por toda la 7°. 
+
+Fue un paseo chévere muy tranquilo y con un paisaje estupendo. Lo volveré a hacerlo pero con una bici de todo terreno ;-).
+
+{% include gallery id="gallery2" caption="Entrando a Bogotá" %}
+
 # Strava
+
+Aquí les comparto la ruta en Strava, siganme si quieren:
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1024133703/embed/30b947514d5b1ab09f205f3bfb5ec27922525277'></iframe>
 
+¡Que tengan un buen día!
 
-bla bla bla...
-
-{% include gallery id="gallery2" caption="Unas fotos de la salida" %}
+Tom

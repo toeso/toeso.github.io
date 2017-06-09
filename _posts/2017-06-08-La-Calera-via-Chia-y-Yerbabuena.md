@@ -51,7 +51,7 @@ Siguiendo con cuidado y muy despacio, el camino de tierra daba por otra calle qu
 
 LLegué al pueblo la Calera y me regresé hacia Bogotá por la calle principal. Me tocó una última subida hasta el peaje de los Patios y después bajé pasando por los miradores al lado de la calle. Entrando a Bogotá desde el oriente, llegué a la septima con ochenta-y-pico y me devolví al norte por toda la 7°. 
 
-Fue un paseo chévere muy tranquilo y con un paisaje estupendo. Lo volveré a hacerlo pero con una bici de todo terreno ;-).
+Fue un paseo chévere muy tranquilo y con un paisaje estupendo. Volvería a hacerlo pero con una bici de todo terreno ;-).
 
 {% include gallery id="gallery2" caption="Entrando a Bogotá" %}
 

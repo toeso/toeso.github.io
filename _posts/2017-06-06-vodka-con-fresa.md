@@ -1,13 +1,14 @@
 ---
-title: "Cóctel: Vodka con Fresa"
+title: "Vodka con Fresa"
 author: "Tom"
 excerpt: "Preparar un frappé de fresas con vodka y limón." 
-categories: "Cóctel"
+categories: Recetas
 tags: 
  - Fresa
  - Vodka
  - Coco
  - Limón
+ - Coctel
 ---
 
 # Ingredientes

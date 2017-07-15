@@ -1,13 +1,14 @@
 ---
-title: "Cóctel: Vodka con Piña"
+title: "Vodka con Piña"
 author: "Tom"
 excerpt: "Preparar un frappé de piña con vodka y coco." 
-categories: "Cóctel"
+categories: Recetas
 tags: 
  - Piña
  - Vodka
  - Coco
  - Limón
+ - Coctel
 ---
 
 # Ingredientes

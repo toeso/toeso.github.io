@@ -59,6 +59,9 @@
 
   p, li, dl {
     font-size: 1em;
+    /* @torggler: justify text */
+    text-align: justify;
+    text-justify: inter-word;
   }
 
   /* paragraph indents */

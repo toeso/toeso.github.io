@@ -7,43 +7,22 @@
 
 # Site Settings
 locale                   : "es-CO"
-title                    : "Las Comelonas de Virgi y Tom"
+title                    : "Viajes. Recetas. Cuentos. ¡To'eso!"
 title_separator          : "-"
-name                     : "Las Comelonas"
-description              : "Por ahí les contaremos."
-url                      : "https://comelonas.tomt.it"
+name                     : "To'eso"
+description              : "Viajes. Recetas. Cuentos. ¡To'eso!"
+url                      : "https://toeso.co"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "tomtorggler/comelonas.tomt.it"
+repository               : "toeso/toeso.github.io"
 teaser                   : # "/assets/images/teaser.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : "comelonas"
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
-staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "master"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "docs/_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
-  requiredFields         : ['name', 'email', 'message']
-  transforms:
-    email                : "md5"
-  generatedFields:
-    date:
-      type               : "date"
-      options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+    shortname            : "toeso"
+
+# Feed
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
@@ -77,9 +56,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Las Comelonas"
+  name             : "To'eso"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Amantes de la buena comida. No opuestos a un buen trago. Cuentos."
+  bio              : "Amantes de la buena comida. No opuestos a un buen trago. Cuentos. Viajes."
   location         : "Bogotá, Colombia"
   email            : "comelonas@tomt.it"
   uri              :

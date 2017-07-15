@@ -1,5 +1,9 @@
 # main links
 main:
+   - title: "Viajes"
+     url: /viajes/  
+   - title: "Recetas"
+     url: /recetas/    
    - title: "Acerca de"
      url: /acerca-de/
    - title: "Quiénes somos"

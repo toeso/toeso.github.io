@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "es-CO"
-title                    : "Viajes. Recetas. Cuentos. ¡To'eso!"
+title                    : "Viajes, recetas, cuentos y to'eso..."
 title_separator          : "-"
 name                     : "To'eso"
-description              : "Viajes. Recetas. Cuentos. ¡To'eso!"
+description              : "Viajes, recetas, cuentos y to'eso..."
 url                      : "https://toeso.co"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "toeso/toeso.github.io"

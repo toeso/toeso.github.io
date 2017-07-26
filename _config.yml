@@ -61,7 +61,7 @@ author:
   bio              : "Amantes de la buena comida. No opuestos a un buen trago. Cuentos. Viajes."
   location         : "Bogotá, Colombia"
   email            : "contacto@toeso.co"
-  uri              :
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -71,7 +71,7 @@ author:
   github           : "toeso"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "toeso.co"
   lastfm           :
   linkedin         :
   pinterest        :
@@ -79,11 +79,11 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "toeso_co"
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : # "https://www.youtube.com/channel/UCV7Ei_WQREJ4jSTKFGHMXlQ"
 
 
 # Reading Files

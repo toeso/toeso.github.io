@@ -34,6 +34,12 @@ featrure_recomendaciones:
     excerpt: "Una de las ventajas más importantes de ir a Venezuela es ¡todo lo que puedes ahorrar!"
     url: /Cambio-de-Divisas/
     btn_class: "btn--inverse"
+  - image_path: /assets/images/pages/ccsplc.jpg
+    alt: "aeropuerto maiquetia"
+    title: "Transporte en el Aeropuerto CCS"
+    excerpt: "Cómo y dónde conseguir transporte por tierra en el Aeropuerto Internacional Simón Bolívar"
+    url: /Transporte-en-el-aeropuerto-ccs/
+    btn_class: "btn--inverse"
 featrure_impuesto:
   - image_path: /assets/images/pages/impuesto.jpg
     alt: "oficina aduana valencia"

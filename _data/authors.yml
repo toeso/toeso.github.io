@@ -2,7 +2,7 @@ Tom:
   name: "Tom"
   uri: "https://toeso.co/quienes-somos/#tom"
   bio: "Italiano de habla alemana. Ciclista apasionado. Viajero."
-  avatar: "/assets/images/bio-photo-t.jpg"
+  avatar: "/assets/images/bio-photo-tom.jpg"
   twitter: "torggler"
   instagram: "tomt_it"
   github: "tomtorggler"
@@ -11,5 +11,12 @@ Virgi:
   name: "Virgi"
   uri: "https://toeso.co/quienes-somos/#virgi"
   bio: "Venezolana deplazada. Amante de los idiomas. Lo que sea, en frappé."
-  avatar: "/assets/images/bio-photo-v.jpg"
+  avatar: "/assets/images/bio-photo-virgi.jpg"
   instagram: "virgizab"
+
+Vero: 
+  name: "Vero"
+  uri: "https://toeso.co/quienes-somos/#vero"
+  bio: "Venezolana. Periodista. Amante de la buena comida y los viajes."
+  avatar: "/assets/images/bio-photo-vero.jpg"
+  instagram: "verozabriv"

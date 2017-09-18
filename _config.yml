@@ -7,15 +7,15 @@
 
 # Site Settings
 locale                   : "es-CO"
-title                    : "Viajes, recetas, cuentos y to'eso..."
+title                    : "Viajes, recetas, cuentos y to' eso..."
 title_separator          : "-"
-name                     : "To'eso"
-description              : "Viajes, recetas, cuentos y to'eso..."
+name                     : "To' eso"
+description              : "Viajes, recetas, cuentos y to' eso..."
 url                      : "https://toeso.co"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "toeso/toeso.github.io"
 teaser                   : # "/assets/images/teaser.jpg"
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true # false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -49,14 +49,14 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-106544636-1"
 
 
 # Site Author
 author:
-  name             : "To'eso"
+  name             : "To' eso"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Amantes de la buena comida. No opuestos a un buen trago. Cuentos. Viajes."
   location         : "Bogotá, Colombia"
@@ -68,7 +68,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "toeso"
+  github           : 
   google_plus      :
   keybase          :
   instagram        : "toeso.co"
@@ -83,7 +83,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://www.youtube.com/channel/UCV7Ei_WQREJ4jSTKFGHMXlQ"
+  youtube          : "https://www.youtube.com/channel/UCcEiOTDip77inAH28MFMIkg"
 
 
 # Reading Files
@@ -150,10 +150,11 @@ sass:
 
 
 # Outputting
-permalink: /:title/ # default /:categories/:title/
+#permalink: /:title/ # default /:categories/:title/
+permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Bogota # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

@@ -2,7 +2,7 @@
 title: "El Impuesto Inventado"
 author: "Tom"
 excerpt: "Llegamos a la parte internacional del aeropuerto de Valencia y inmigramos de una al país..."
-categories: "Cuento"
+categories: "Cuentos"
 tags: 
  - Venezuela
  - Playa

@@ -2,15 +2,29 @@
 title: "Viajes"
 permalink: /viajes/ 
 layout: "splash"
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  cta_label: "Venezuela"
+  cta_url: "/venezuela/"
 ---
 
-# 2017
+{% assign sorted_posts = site.categories.Viajes | sort:"title" %}
+{% for post in sorted_posts %}
+<ul>
+  <li>
+    <p>
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
+    </p>
+  </li>
+</ul>
+{% endfor %}
+
+{::comment}
 
 - [Venezuela]({{ site.url }}{{ site.baseurl }}/venezuela/)
 - [Cali, Colombia]({{ site.url }}{{ site.baseurl }}/Aprendiendo-hacer-Patacones-en-Cali/)
 
-
-{::comment}
 # 2016
 
 - [San Gil, Colombia]({{ site.url }}{{ site.baseurl }}/El-Canon-del-Chicamocha/)

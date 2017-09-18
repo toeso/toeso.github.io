@@ -2,7 +2,7 @@
 title: "Bogotá - Valencia - Barcelona"
 author: "Tom"
 excerpt: "Viajando desde Bogotá, Colombia hasta Barcelona, Venezuela..."
-categories: "Viaje"
+categories: "Viajes"
 tags: 
  - Venezuela
  - Colombia

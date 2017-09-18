@@ -4,7 +4,7 @@ author: "Tom"
 excerpt: "En un reciente viaje a Cali aprendimos preparar patacones"
 categories:
  - Recetas
- - Viaje
+ - Viajes
 tags: 
  - Cali
  - Plátano

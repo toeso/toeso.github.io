@@ -2,7 +2,7 @@
 title: "Un momento histórico"
 author: "Tom"
 excerpt: "La consulta nacional de Venezuela de 2017"
-categories: "Cuento"
+categories: "Cuentos"
 tags: 
  - Colombia
  - Venezuela

@@ -56,7 +56,7 @@ es: &DEFAULT_ES
   pagination_previous        : "Anterior"
   pagination_next            : "Siguiente"
   breadcrumb_home_label      : "Inicio"
-  breadcrumb_separator       : "/"
+  breadcrumb_separator       : ">"
   menu_label                 :
   toc_label                  : "Contenidos"
   ext_link_label             : "Enlace"

@@ -2,7 +2,7 @@
 title: "El cuento del billete falso"
 author: "Tom"
 excerpt: "De un reciente viaje al centro bogotano y un billete falso"
-categories: "Cuento"
+categories: "Cuentos"
 tags: 
  - TransMilenio
  - Centro

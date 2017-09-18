@@ -2,7 +2,7 @@
 title: "PORQUÉ NO APOYAR LA CONSTITUYENTE"
 author: "Virgi"
 excerpt: "Nada parece detener la decisión de Nicolás Maduro de realizar elecciones el próximo 30 de Julio para aprobar una Asamblea Constituyente..."
-categories: "Cuento"
+categories: "Cuentos"
 tags: 
  - Venezuela
 ---

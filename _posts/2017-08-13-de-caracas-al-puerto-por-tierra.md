@@ -2,7 +2,7 @@
 title: "De Caracas al Puerto por tierra"
 author: "Tom"
 excerpt: "Volviendo a la casa de Virgi."
-categories: "Viaje"
+categories: "Viajes"
 tags: 
  - Venezuela
  - Colombia

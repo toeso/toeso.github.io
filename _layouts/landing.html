@@ -1,0 +1,85 @@
+---
+---
+
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.4.1 by Michael Rose
+  Copyright 2017 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE.txt
+
+  created layout for a landing page
+-->
+<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body style="margin-top:100px;" class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
+
+    {% include browser-upgrade.html %}
+    
+    {% if page.header.image contains "://" %}
+      {% capture img_path %}{{ page.header.image }}{% endcapture %}
+    {% else %}
+      {% capture img_path %}{{ page.header.image | absolute_url }}{% endcapture %}
+    {% endif %}
+
+    {% if page.header.overlay_image contains "://" %}
+      {% capture overlay_img_path %}{{ page.header.overlay_image }}{% endcapture %}
+    {% elsif page.header.overlay_image %}
+      {% capture overlay_img_path %}{{ page.header.overlay_image | absolute_url }}{% endcapture %}
+    {% endif %}
+    
+    {% if page.header.overlay_filter contains "rgba" %}
+      {% capture overlay_filter %}{{ page.header.overlay_filter }}{% endcapture %}
+    {% elsif page.header.overlay_filter %}
+      {% capture overlay_filter %}rgba(0, 0, 0, {{ page.header.overlay_filter }}){% endcapture %}
+    {% endif %}
+    
+    <div class="page__hero{% if page.header.overlay_color or page.header.overlay_image %}--overlay{% endif %}"
+      style="{% if page.header.overlay_color %}background-color: {{ page.header.overlay_color | default: 'transparent' }};{% endif %} {% if overlay_img_path %}background-image: {% if overlay_filter %}linear-gradient({{ overlay_filter }}, {{ overlay_filter }}), {% endif %}url('{{ overlay_img_path }}');{% endif %}"
+    >
+      {% if page.header.overlay_color or page.header.overlay_image %}
+        <div class="wrapper">
+          <h1 align="center" style="font-size:6em;" class="page__title" itemprop="headline">
+            {% if paginator and site.paginate_show_page_num %}
+              {{ site.title }}{% unless paginator.page == 1 %} {{ site.data.ui-text[site.locale].page | default: "Page" }} {{ paginator.page }}{% endunless %}
+            {% else %}
+              {{ page.title | default: site.title | markdownify | remove: "<p>" | remove: "</p>" }}
+            {% endif %}
+          </h1>
+            <p align="center" style="color:#fff;font-size:2em;">{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+            <p align="center" style="font-size:2em;">
+              <a href="/home" class="btn btn--light-outline btn--large"><i class="fa fa-fw fa-chain" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a>
+              <a href="https://instagram.com/toeso.co" class="btn btn--light-outline btn--large"><i class="fa fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a>
+              <a href="https://www.youtube.com/channel/UCcEiOTDip77inAH28MFMIkg" class="btn btn--light-outline btn--large"><i class="fa fa-fw fa-youtube-square" aria-hidden="true"></i> YouTube</a>
+            </p>
+          </div>
+      {% else %}
+        <img src="{{ img_path }}" alt="{{ page.title }}" class="page__hero-image">
+      {% endif %}
+      {% if page.header.caption %}
+        <span class="page__hero-caption">{{ page.header.caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+      {% endif %}
+    </div>
+
+    <div id="main" role="main">
+      <article class="splash" itemscope itemtype="http://schema.org/CreativeWork">
+        {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+        {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+        {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
+        {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date: "%B %d, %Y" }}">{% endif %}
+    
+        <section class="page__content" itemprop="text">
+          {{ content }}
+        </section>
+      </article>
+    </div>
+    
+
+    {% include scripts.html %}
+
+  </body>
+</html>

@@ -2,7 +2,7 @@
 title: "Transporte en el Aeropuerto CCS"
 author: "Tom"
 excerpt: "Cómo y dónde conseguir transporte por tierra en el Aeropuerto Internacional Simón Bolívar"
-categories: "Viaje"
+categories: "Viajes"
 tags: 
  - Venezuela
  - Recomendación

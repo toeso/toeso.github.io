@@ -2,7 +2,7 @@
 title: "Cambio de Divisas"
 author: "Virgi"
 excerpt: "Una de las ventajas más importantes de ir a Venezuela es ¡todo lo que puedes ahorrar!"
-categories: "Viaje"
+categories: "Viajes"
 tags: 
  - Venezuela
  - Recomendación

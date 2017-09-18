@@ -3,8 +3,7 @@ title: "Viajes"
 permalink: /viajes/ 
 layout: "splash"
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_image: /assets/images/header3.jpg
   cta_label: "Venezuela"
   cta_url: "/venezuela/"
 ---

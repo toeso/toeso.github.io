@@ -5,6 +5,7 @@ excerpt: "En un reciente viaje a Cali aprendimos preparar patacones"
 categories:
  - Recetas
  - Viajes
+ - Colombia
 tags: 
  - Cali
  - Plátano

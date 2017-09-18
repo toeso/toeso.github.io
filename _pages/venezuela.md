@@ -23,9 +23,9 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/vzla3.jpg
     alt: "amigos"
-    title: "Día 3: Encontrando amigos"
-    excerpt: "Nos incontramos con unos amigos de Virgi."
-    url: /Encontrando-amigos/
+    title: "La Gran Sabana"
+    excerpt: "Fiumos a rusitquear por la Gran Sabana"
+    url: /la-gran-sabana/
     btn_class: "btn--inverse"
 featrure_recomendaciones:
   - image_path: /assets/images/pages/divisas.jpg
@@ -66,6 +66,8 @@ El primer viaje a un país siempre tiene sus encantos especiales: un nuevo timbr
 {% include feature_row id="feature_row1" type="left"%}
 
 {% include feature_row id="feature_row2" type="right"%}
+
+{% include feature_row id="feature_row3" type="left"%}
 
 # Recomendaciónes
 

@@ -5,7 +5,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0"
-  overlay_image: /assets/images/acerca-de.jpg
+  overlay_image: /assets/images/pages/acerca-de.jpg
 ---
 
 Tom y Virgi se conocieron en la bella ciudad de Barcelona, España, en el 2014. Ambos pasaban un tiempo en la ciudad por razones laborales y coincidieron casualmente una noche en _Hard Rock Café_. Empezaron una conversación y pasaron un rato chévere que terminó en una historia bastante inusual y hasta divertida. 

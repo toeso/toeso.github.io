@@ -1,18 +1,15 @@
 ---
 title: "Cuentos"
 permalink: /cuentos/ 
-layout: "splash"
+layout: splash
+author_profile: false
+header: 
+  overlay_image: /assets/images/pages/cuentos.jpg
 ---
 
 # Cuentos 
 
 {% assign sorted_posts = site.categories.Cuentos | sort:"title" %}
 {% for post in sorted_posts %}
-<ul>
-  <li>
-    <p>
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
-    </p>
-  </li>
-</ul>
+  {% include archive-single.html %}
 {% endfor %}

@@ -1,7 +1,8 @@
 ---
 title: "Viajes"
 permalink: /viajes/ 
-layout: "splash"
+layout: splash
+author_profile: false
 header:
   overlay_image: /assets/images/header3.jpg
   cta_label: "Venezuela"
@@ -10,13 +11,7 @@ header:
 
 {% assign sorted_posts = site.categories.Viajes | sort:"title" %}
 {% for post in sorted_posts %}
-<ul>
-  <li>
-    <p>
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
-    </p>
-  </li>
-</ul>
+   {% include archive-single.html %}
 {% endfor %}
 
 {::comment}

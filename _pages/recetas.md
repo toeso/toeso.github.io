@@ -1,7 +1,10 @@
 ---
 title: "Recetas"
 permalink: /recetas/ 
-layout: "splash"
+layout: splash
+author_profile: false
+header: 
+  overlay_image: /assets/images/pages/recetas.jpg
 ---
 
 # Cócteles
@@ -9,13 +12,7 @@ layout: "splash"
 {% assign sorted_posts = site.categories.Recetas | sort:"title" %}
 {% for post in sorted_posts %}
 {% if post.tags contains "Coctel" %}
-  <ul>
-    <li>
-      <p>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
-      </p>
-    </li>
-  </ul>
+    {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
@@ -26,12 +23,7 @@ layout: "splash"
 {% assign sorted_posts = site.categories.Recetas | sort:"title" %}
 {% for post in sorted_posts %}
 {% if post.tags contains "Comida" %}
-  <ul>
-    <li>
-      <p>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
-      </p>
-    </li>
-  </ul>
+    {% include archive-single.html %}
   {% endif %}
 {% endfor %}
+

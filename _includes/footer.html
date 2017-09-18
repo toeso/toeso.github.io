@@ -3,6 +3,12 @@
     {% if site.data.ui-text[site.locale].follow_label %}
       <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
     {% endif %}
+    {% if site.instagram.username %}
+      <li><a href="https://instagram.com/{{ site.instagram.username }}"><i class="fa fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
+    {% endif %}
+    {% if site.youtube.channel %}
+      <li><a href="https://youtube.com/channel/{{ site.youtube.channel }}"><i class="fa fa-fw fa-youtube-square" aria-hidden="true"></i> YouTube</a></li>
+    {% endif %}
     {% if site.twitter.username %}
       <li><a href="https://twitter.com/{{ site.twitter.username }}"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
     {% endif %}
@@ -14,6 +20,9 @@
     {% endif %}
     {% if site.author.bitbucket %}
       <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}"><i class="fa fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
+    {% endif %}
+    {% if site.donate.paypal_me %}
+    <li><a href="https://paypal.me/{{ site.donate.paypal_me }}"><i class="fa fa-fw fa-paypal" aria-hidden="true"></i> PayPal</a></li>
     {% endif %}
     <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | absolute_url }}{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
   </ul>

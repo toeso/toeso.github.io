@@ -33,8 +33,16 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
+donate:
+  bitcoin                : 13fXxMxH6rdALDMu7N9BDxYfKmomU5Mfze
+  paypal_me              : ttorggler
+youtube:
+  username               : 
+  channel                : UCcEiOTDip77inAH28MFMIkg
+instagram:
+  username               : toeso.co
 twitter:
-  username               :
+  username               : toeso_co
 facebook:
   username               :
   app_id                 :

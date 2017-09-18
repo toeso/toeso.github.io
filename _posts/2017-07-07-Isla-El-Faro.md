@@ -2,7 +2,9 @@
 title: "Isla El Faro"
 author: "Virgi"
 excerpt: "En nuestro primer día de vacaciones en Puerto La Cruz fuimos a visitar la isla El Faro en el Parque Nacional Mochima..."
-categories: "Viajes"
+categories: 
+  - Viajes
+  - Venezuela
 tags: 
  - Venezuela
  - Playa

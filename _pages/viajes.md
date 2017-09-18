@@ -5,16 +5,32 @@ layout: splash
 author_profile: false
 header:
   overlay_image: /assets/images/header3.jpg
-  cta_label: "Venezuela"
-  cta_url: "/venezuela/"
+feature_paises:
+  - image_path: /assets/images/pages/divisas.jpg
+    alt: "un poco de plata"
+    title: "Venezuela"
+    excerpt: "La tierra..."
+    url: /venezuela/
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/pages/ccsplc.jpg
+    alt: "aeropuerto maiquetia"
+    title: "Colombia"
+    excerpt: "Colombia..."
+    url: /colombia/
+    btn_class: "btn--inverse"
+
 ---
+
+{% include feature_row id="feature_paises" %}
+
+{::comment}
 
 {% assign sorted_posts = site.categories.Viajes | sort:"title" %}
 {% for post in sorted_posts %}
    {% include archive-single.html %}
 {% endfor %}
 
-{::comment}
+
 
 - [Venezuela]({{ site.url }}{{ site.baseurl }}/venezuela/)
 - [Cali, Colombia]({{ site.url }}{{ site.baseurl }}/Aprendiendo-hacer-Patacones-en-Cali/)

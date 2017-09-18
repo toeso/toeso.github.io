@@ -11,7 +11,7 @@ feature_row1:
     alt: "Isla El Faro"
     title: "Isla El Faro"
     excerpt: "En nuestro primer día de vacaciones en Puerto La Cruz fuimos a visitar la isla El Faro en el Parque Nacional Mochima..."
-    url: /viajes/Isla-El-Faro/
+    url: /viajes/venezuela/Isla-El-Faro/
     btn_class: "btn--inverse"
 feature_row2:
   - image_path: /assets/images/pages/puerto-la-cruz.jpg
@@ -32,13 +32,13 @@ featrure_recomendaciones:
     alt: "un poco de plata"
     title: "Cambio De Divisas"
     excerpt: "Una de las ventajas más importantes de ir a Venezuela es ¡todo lo que puedes ahorrar!"
-    url: /viajes/Cambio-de-Divisas/
+    url: /viajes/venezuela/Cambio-de-Divisas/
     btn_class: "btn--inverse"
   - image_path: /assets/images/pages/ccsplc.jpg
     alt: "aeropuerto maiquetia"
     title: "Transporte en el Aeropuerto CCS"
     excerpt: "Cómo y dónde conseguir transporte por tierra en el Aeropuerto Internacional Simón Bolívar"
-    url: /viajes/Transporte-en-el-aeropuerto-ccs/
+    url: /viajes/venezuela/Transporte-en-el-aeropuerto-ccs/
     btn_class: "btn--inverse"
 featrure_impuesto:
   - image_path: /assets/images/pages/impuesto.jpg

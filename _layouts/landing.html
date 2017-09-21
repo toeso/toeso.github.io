@@ -2,7 +2,6 @@
 layout: default
 ---
 
-  <body style="margin-top:100px;" class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
  
     {% if page.header.image contains "://" %}
       {% capture img_path %}{{ page.header.image }}{% endcapture %}
@@ -48,5 +47,3 @@ layout: default
         <span class="page__hero-caption">{{ page.header.caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
       {% endif %}
     </div>
-
-  </body>

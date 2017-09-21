@@ -1,9 +1,33 @@
 ---
 title: "to' eso"
-excerpt: "Viajes, recetas, cuentos y to' eso..."
-layout: landing
+excerpt: "Viajes, recetas, cuentos y..."
+layout: default
 hide_menu: true
 header:
   overlay_image: "/assets/images/pages/landing.jpg"
 ---
 
+{% if page.header.overlay_image contains "://" %}
+  {% capture overlay_img_path %}{{ page.header.overlay_image }}{% endcapture %}
+{% elsif page.header.overlay_image %}
+  {% capture overlay_img_path %}{{ page.header.overlay_image | absolute_url }}{% endcapture %}
+{% endif %}
+  
+<div class="page__hero{% if page.header.overlay_color or page.header.overlay_image %}--overlay{% endif %}"
+style="background-color:'transparent'; background-image:url('{{ overlay_img_path }}');"
+>
+<div class="wrapper">
+  <p align="center" class="page__title" style="margin: 2em 0 0 0;font-size:2em;">{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+  <h1 align="center" style="margin: 0.25em 0 1em; font-size:5.5em;" class="page__title" itemprop="headline">
+    {{ page.title | default: site.title | markdownify | remove: "<p>" | remove: "</p>" }}
+  </h1>
+  <p align="center" style="font-size:1.8em;">
+    <!--<a href="/home/" class="btn btn--light-outline btn--large"><i class="fa fa-fw fa-chain" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a>-->
+    <a href="https://instagram.com/toeso.co" class="btn btn--light-outline btn--large"><i class="fa fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a>
+    <a href="https://www.youtube.com/channel/UCcEiOTDip77inAH28MFMIkg" class="btn btn--light-outline btn--large"><i class="fa fa-fw fa-youtube-square" aria-hidden="true"></i> YouTube</a>
+  </p>
+</div>
+{% if page.header.caption %}
+  <span class="page__hero-caption">{{ page.header.caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+{% endif %}
+</div>

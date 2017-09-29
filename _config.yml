@@ -165,13 +165,15 @@ paginate_path: /home/page:num/
 timezone: America/Bogota # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
-# Plugins
-gems:
+# Plugins - renamed from gem because of update...
+# adds redirect from
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
+#  - jekyll-redirect-from 
 
 # mimic GitHub Pages with --safe
 whitelist:

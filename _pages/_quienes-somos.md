@@ -19,4 +19,4 @@ Soy venezolana de nacimiento, pero me considero del mundo. Nací y crecí en la 
 
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/bio-photo-tom.jpg){: .align-left}
 
-Soy italiano de idioma nativo alemán, pues eso es lo que se habla en Alto Adige, la región más al norte de Italia. Como ingeniero de sistemas trabajé diez años en Italia, Austria y Alemania en varios cargos relacionados a mi profesión. Quedé encantado de un primer viaje a América Latina en el 2015, y, en el 2017, decidí tomarme un descanso y me vine a Bogotá.
+Soy italiano de idioma nativo alemán, pues eso es lo que se habla en Alto Adige, la región más al norte de Italia. Como ingeniero de sistemas trabajé diez años en Italia, Austria y Alemania en varios cargos relacionados a mi profesión. En el 2017 decidí tomarme un tiempo y pasé medio año en Colombia y Venezuela. Quedé encantado de la vida viajera y sigo en ella.

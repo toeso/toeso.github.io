@@ -1,5 +1,5 @@
 ---
-title: "to' eso"
+title: "TO' ESO"
 excerpt: "Viajes, recetas, cuentos y..."
 layout: default
 classes: landing
@@ -7,9 +7,9 @@ hide_menu: true
 ---
 
 <div class="page__hero--overlay" style="background-color:'transparent'; background-image:url('/assets/images/pages/landing.jpg');">
-  <div class="wrapper">
+  <div class="wrapper" style="padding-bottom: 2em; padding-top: 2em;">
     <p align="center" class="page__title" style="margin: 2em 0 0 0;font-size:1.6em;">{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
-    <h1 align="center" style="margin: 0.25em 0 1em; font-size:5em;" class="page__title" itemprop="headline">
+    <h1 align="center" style="margin: 0.25em 0 1em; font-size:5em; font-weight: normal" class="page__title" itemprop="headline">
       {{ page.title | default: site.title | markdownify | remove: "<p>" | remove: "</p>" }}
     </h1>
     <p align="center" style="font-size:1.4em;">

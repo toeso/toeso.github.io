@@ -7,28 +7,10 @@ header:
   overlay_image: /assets/images/pages/viajes.jpg
 ---
 
-# Venezuela
-
 {% assign sorted_posts = site.categories.Viajes | sort:"date" %}
 {% for post in sorted_posts %}
-{% if post.tags contains "Venezuela" %}
-    {% include archive-single.html %}
-  {% endif %}
+  {% include archive-single.html %}
 {% endfor %}
-
-# Colombia
-
-{% assign sorted_posts = site.categories.Viajes | sort:"date" %}
-{% for post in sorted_posts %}
-{% if post.tags contains "Colombia" %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
-
-
-
-
-
 
 
 {::comment}

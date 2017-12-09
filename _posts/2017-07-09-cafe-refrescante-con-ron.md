@@ -13,7 +13,7 @@ tags:
 
 {% include toc %}
 
-Hoy les tengo una receta fácil que se puede utilizar cuando sobre algo de café.
+Hoy les tengo una receta fácil que pueden preparar cuando sobre algo de café.
 
 ## Ingredientes
 

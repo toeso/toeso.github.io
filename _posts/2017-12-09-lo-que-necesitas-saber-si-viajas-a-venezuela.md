@@ -7,9 +7,15 @@ tags:
  - Venezuela
 ---
 
+{% include multilang.html lang="en" url="/viajes/what-you-need-to-know-when-travelling-to-venezuela/" %}
+
 A propósito de nuestros recientes viajes por Venezuela, varias personas nos han hecho preguntas como qué tan complicado u oportuno sería para un turista visitar Venezuela, si realmente es tan barato como se rumora, si la situación es realmente como se muestra en las noticias, entre otras inquitudes. Así que en respuesta a esas personas que han mostrado interés o curiosidad, les decimos lo siguiente:
 
-Venezuela es un país hermosísimo que definitivamente vale la pena visitar. Si bien no es un secreto para el mundo la dura realidad que hoy aflije a  los venezolanos, también es cierto que es un país lleno de lugares mágicos, gente noble, ritmos y sabores que enamoran a cualquiera. Así que, si el país caribeño está en la lista de tus próximos destinos, es importante que sepas algunas cosas.
+> Venezuela es un país hermosísimo que definitivamente vale la pena visitar. 
+
+Si bien no es un secreto para el mundo la dura realidad que hoy aflije a  los venezolanos, también es cierto que es un país lleno de lugares mágicos, gente noble, ritmos y sabores que enamoran a cualquiera. Así que, si el país caribeño está en la lista de tus próximos destinos, es importante que sepas algunas cosas.
+
+# Dinero
 
 Debido a la hiperinflación que se vive en el país, el Bolívar Fuerte, moneda venezolana, irónicamente es bastante insignificante frente a cualquier otra moneda como el euro, el dólar e incluisive monedas vecinas como el peso colombiano. Esto no necesariamente es algo negativo si vienes de afuera, al contrario, se traduce en precios increíblemente bajos que te permitirán disfrutar de muchísimo más por muchísimo menos. Para que tengan una idea, una noche de hotel, en un buen ambiente puede valer alrededor de 10USD, y si eres menos exigente, inclusive mucho menos. Pero es importante tener en cuenta que: 
 

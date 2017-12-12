@@ -9,7 +9,7 @@ tags:
 
 {% include multilang.html lang="en" url="/viajes/how-to-buy-bolivares-with-bitcoin/" %}
 
-Como explicó Virgi en la última entrada, el control cambiario en Venezuela complica el cambio de dinero – y los viajes – un poquito. Para el turista no tiene ningún sentido cambiar dinero a la tasa oficial (ni usar sus tarjetas) ya que todos los precios se basan en el cambio del dólar paralelo. Además, el país se ve afectado por una inflación disparada la cual produce una escasez enorme de dinero en efectivo.
+<span class="dropcap">C</span>omo explicó Virgi en la última entrada, el control cambiario en Venezuela complica el cambio de dinero – y los viajes – un poquito. Para el turista no tiene ningún sentido cambiar dinero a la tasa oficial (ni usar sus tarjetas) ya que todos los precios se basan en el cambio del dólar paralelo. Además, el país se ve afectado por una inflación disparada la cual produce una escasez enorme de dinero en efectivo.
 
 Lo que necesitas, si o si, es una cuenta en Bolívares con tarjeta de débito. 
 

@@ -9,7 +9,7 @@ tags:
 
 {% include multilang.html lang="en" url="/viajes/what-you-need-to-know-when-travelling-to-venezuela/" %}
 
-A propósito de nuestros recientes viajes por Venezuela, varias personas nos han hecho preguntas como qué tan complicado u oportuno sería para un turista visitar Venezuela, si realmente es tan barato como se rumora, si la situación es realmente como se muestra en las noticias, entre otras inquitudes. Así que en respuesta a esas personas que han mostrado interés o curiosidad, les decimos lo siguiente:
+<span class="dropcap">A </span> propósito de nuestros recientes viajes por Venezuela, varias personas nos han hecho preguntas como qué tan complicado u oportuno sería para un turista visitar Venezuela, si realmente es tan barato como se rumora, si la situación es realmente como se muestra en las noticias, entre otras inquitudes. Así que en respuesta a esas personas que han mostrado interés o curiosidad, les decimos lo siguiente:
 
 > Venezuela es un país hermosísimo que definitivamente vale la pena visitar. 
 

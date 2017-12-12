@@ -9,7 +9,7 @@ tags:
 
 {% include multilang.html lang="es" url="/viajes/lo-que-necesitas-saber-si-viajas-a-venezuela/" %}
 
-We went to Venezuela three times in the last six months, spending a total of about two months in this beautiful country. When talking to people about our experiences, common questions like how complicated is it to go there; is it really that cheap; is the situation really as shown in the news or social media; came up repeatedly. Therefore, we decided to write up the most common questions and our answers. First of all, one thing: 
+<span class="dropcap">W</span>e went to Venezuela three times in the last six months, spending a total of about two months in this beautiful country. When talking to people about our experiences, common questions like how complicated is it to go there; is it really that cheap; is the situation really as shown in the news or social media; came up repeatedly. Therefore, we decided to write up the most common questions and our answers. First of all, one thing: 
 
 > Venezuela is a terrific place and well worth visiting.
 

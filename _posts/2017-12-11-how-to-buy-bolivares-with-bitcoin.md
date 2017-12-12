@@ -9,7 +9,7 @@ tags:
 
 {% include multilang.html lang="es" url="/viajes/como-comprar-bolivares-con-bitcoin/" %}
 
-The currency and exchange control in Venezuela complicates the process of exchanging money a bit. As Virgi explained in her article, it makes no sense at all to exchange money at official rates; for the same reason you should absolutely avoid using your credit or debit cards in the country. Apart from that, Venezuela sees herself affected by a hyperbolic inflation, which produces a huge shortage of cash.
+<span class="dropcap">T</span>he currency and exchange control in Venezuela complicates the process of exchanging money a bit. As Virgi explained in her article, it makes no sense at all to exchange money at official rates; for the same reason you should absolutely avoid using your credit or debit cards in the country. Apart from that, Venezuela sees herself affected by a hyperbolic inflation, which produces a huge shortage of cash.
 
 Unless you book an all-inclusive type of tour with some agency, you will need a bank account with debit card for the time of you stay.
 

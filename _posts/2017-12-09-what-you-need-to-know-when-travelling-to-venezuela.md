@@ -9,29 +9,34 @@ tags:
 
 {% include multilang.html lang="es" url="/viajes/lo-que-necesitas-saber-si-viajas-a-venezuela/" %}
 
-<span class="dropcap">W</span>e went to Venezuela three times in the last six months, spending a total of about two months in this beautiful country. When talking to people about our experiences, common questions like how complicated is it to go there; is it really that cheap; is the situation really as shown in the news or social media; came up repeatedly. Therefore, we decided to write up the most common questions and our answers. First of all, one thing: 
+<span class="dropcap">A</span>s a result of our recent visits to Venezuela, many people have come up with some common questions like, how complicated would it be for a tourist to go there at this time, if it's really as cheap as people say, if the situation is really as shown in the news and social media, etc. Therefore, in response to all those who showed some interest or just curiosity, we dedicate the following lines:
 
-> Venezuela is a terrific place and well worth visiting.
+> Venezuela is a terrific place and definitely well worth visiting.
 
-Even though the country and its society are living through difficult times, it continues to be full of magic places, noble people, rhythms and tastes that charm anyone. If you consider visiting Venezuela, here goes our list of recommendations.
+Even though the country and its society are living through difficult times, it continues to be full of magic places, noble people, rhythms and tastes that charm anyone. So, If the caribbean country is on your bucket list, here you will find a few important things to have in mind.
 
-# Money
+## Buying Bolivares
 
-Because of the hyperinflation, that is affecting the country, the Bolivar Fuerte is anything but strong. Actually, it is almost worthless even when compared to neighboring currencies such as the Colombian peso or the Brazilian real. This turns out to be advantageous for tourists who can enjoy more by paying less. The cost per night in a decent hotel, for example, should not exceed 10 USD. Even so, the following should be kept in mind:
+Due to the hyperinflation that is affecting the country's economy, the Bolivar Fuerte, venezuelan currency, is anything but strong. Actually, it is almost worthless even when compared to neighboring currencies such as the Colombian peso or the Brazilian real. This is unfortunate for Venezuelan people, however it turns out to be advantageous for tourists, who can enjoy more by paying less. For you to have an idea, the cost per night in a decent hotel, should not exceed 10 USD. Even so, it is important to consider:
 
--	The only accepted currency is Bolivares, even when paying by card, you can only use national cards
+- The only accepted currency is Bolivares, even when paying by card, you can only use national cards.
 
--	Cash is quite complicated to get to; these days people pay most things by bank transfer or debit/credit cards.
+- Cash is quite complicated to come by; nowadays people pay most things with their debit or credit cards and bank transfer are quite common, even for small amounts.
 
--	Because of the currency control in place, changing money at official rates is next to insane. It sounds strange but we recommend you do not use exchange offices: you will get a much better rate at the parallel market.
+- Because of the currency exchange control in place, changing money at official rates is next to insane. It may sound strange, but we recommend that you change your dollars at the parallel market, where you will get a much better rate. 
 
-Because of the above, we recommend you talk to some friend or known person in Venezuela who can let you use their debit card and bank account for the time of your stay. No one checks documents when you are paying anyways so you should have no problems by taking that route.
+Of course you can always buy an all-inclusive package with any travel agency, but if you are planning to go on your own, our suggestion is that you find someone in Venezuela who can let you use their debit card and bank account for the time of your stay. Documents are not necessary when paying, so you should have no problems by taking that route.
 
-To change your money to Bolivares we do recommend two options. The first one is bringing USD in cash and selling them on the parallel market. You can get the latest price at dolartoday.com and it will be very easy to find a buyer who will transfer the amount of Bolivares to a bank account of your choice.
+To change money, people normally bring USD in cash and sell them on the parallel market. You can check the latest price at dolartoday.com and it will be very easy to find a buyer who will transfer the amount in Bolivares to the bank account of your choice.
 
-The second option, the one we prefer, is to buy Bitcoins before travelling and then use them to buy Bolivares on localbitcoins.com. We find this is the fastest and most secure way, as you will not have to carry cash when travelling. If you are new to the world of bitcoin and would like a more detailed explanation, check out our next post: How to buy Bolivares with Bitcoins.
+Another alternative, one that we consider faster and more secure, is to buy Bitcoins before travelling and then use them to buy Bolivares on market places like localbitcoins.com. This way will save yourself some time trying to find a trusted buyer and you won't have to carry cash when travelling, since the money will go straight into your bank account. If you are new to the world of bitcoin and would like a more detailed explanation, check out our next post: How to buy Bolivares with Bitcoins.
 
 We do hope you found this first post about Venezuela useful and will continue to share our experiences and recommendations. Please feel free to leave a comment and we will gladly try to help you out as best as we can.
+
+## Fun facts
+
+- Venezuelans commonly refer to their currency as "bolos"
+- Since amounts are very high, people tend to omit some zeros when speaking of prices. So that 3 bolos really are 3000bs. 
 
 See you!
 

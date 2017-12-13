@@ -2,11 +2,10 @@
     <i class="fa fa-globe" aria-hidden="true"></i> &nbsp;      
 {% case include.lang %}
     {% when "en" %}
-    This post is also available in <a href="{{ include.url | prepend: site.url }}">English</a>.
+    Also see in <a href="{{ include.url | prepend: site.url }}">English</a>.
     {% when "de" %}
-    Dieser Artikel ist auch auf <a href="{{ include.url | prepend: site.url }}">Deutsch</a> verfügbar.
+    Auf <a href="{{ include.url | prepend: site.url }}">Deutsch</a> lesen.
     {% when "es" %}
-    Ese articúlo también está disponible en <a href="{{ include.url | prepend: site.url }}">Español</a>.
+    Ve también en <a href="{{ include.url | prepend: site.url }}">Español</a>.
 {% endcase %}
 </p>
-

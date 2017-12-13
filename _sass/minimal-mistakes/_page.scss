@@ -113,7 +113,12 @@
 
   /* multilang @torggler */
   .multilang {
+    color: mix(#fff, $gray, 25%);
     font-size: $type-size-6;
+  }
+
+  .dropcap {
+    font-family: 'Times New Roman', Times, serif;
   }
 
 }

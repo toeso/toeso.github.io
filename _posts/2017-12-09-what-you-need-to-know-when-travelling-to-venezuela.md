@@ -3,7 +3,7 @@ title: "What you need to know when travelling to Venezuela"
 author: "Virgi"
 categories: "Viajes"
 excerpt: "How complicated is visiting Venzuela? Is it really that cheap? Do news and social media reflect the situation corectly?"
-multilang: "en"
+multilang: "es"
 multi_url: "/viajes/lo-que-necesitas-saber-si-viajas-a-venezuela/"
 tags: 
  - Venezuela

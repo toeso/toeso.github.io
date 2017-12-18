@@ -4,8 +4,8 @@ main:
      url: /viajes/  
    - title: "Recetas"
      url: /recetas/    
-#   - title: "Cuentos"
-#     url: /cuentos/    
+   - title: "Cuentos"
+     url: /cuentos/    
    - title: "Acerca de"
      url: /acerca-de/
 #   - title: "Quiénes somos"

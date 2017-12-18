@@ -3,11 +3,11 @@ title: "What you need to know when travelling to Venezuela"
 author: "Virgi"
 categories: "Viajes"
 excerpt: "How complicated is visiting Venzuela? Is it really that cheap? Do news and social media reflect the situation corectly?"
+multilang: "en"
+multi_url: "/viajes/lo-que-necesitas-saber-si-viajas-a-venezuela/"
 tags: 
  - Venezuela
 ---
-
-{% include multilang.html lang="es" url="/viajes/lo-que-necesitas-saber-si-viajas-a-venezuela/" %}
 
 <span class="dropcap">A</span>s a result of our recent visits to Venezuela, many people have come up with some common questions like, how complicated would it be for a tourist to go there at this time, if it's really as cheap as people say, if the situation is really as shown in the news and social media, etc. Therefore, in response to all those who showed some interest or just curiosity, we dedicate the following lines:
 
@@ -35,7 +35,7 @@ We do hope you found this first post about Venezuela useful and will continue to
 
 ## Fun facts
 
-- Venezuelans commonly refer to their currency as "bolos"
+- Venezuelans commonly refer to their currency as "bolos".
 - Since amounts are very high, people tend to omit some zeros when speaking of prices. So that 3 bolos really are 3000bs. 
 
 See you!

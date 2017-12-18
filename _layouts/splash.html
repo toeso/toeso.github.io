@@ -16,6 +16,10 @@ layout: default
     {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date: "%B %d, %Y" }}">{% endif %}
 
     <section class="page__content" itemprop="text">
+      {% if page.multilang %} {% endif %}
+      {% capture lang %}{{ page.multilang }}{% endcapture %}
+      {% capture url %}{{ page.multi_url }}{% endcapture %}
+      <p class="page__meta"><i class="fa fa-globe" aria-hidden="true"></i> &thinsp; {% include multilang.html lang=lang url=url %} </p>
       {{ content }}
     </section>
   </article>

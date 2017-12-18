@@ -1,5 +1,4 @@
-<p class="multilang">
-    <i class="fa fa-globe" aria-hidden="true"></i> &nbsp;      
+
 {% case include.lang %}
     {% when "en" %}
     Also see in <a href="{{ include.url | prepend: site.url }}">English</a>.
@@ -8,4 +7,4 @@
     {% when "es" %}
     Ve también en <a href="{{ include.url | prepend: site.url }}">Español</a>.
 {% endcase %}
-</p>
+

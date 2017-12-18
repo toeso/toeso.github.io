@@ -2,13 +2,13 @@
 title: "Acerca de"
 permalink: /acerca-de/ 
 layout: splash
+multilang: "en"
+multi_url: "/about/"
 header:
   overlay_color: "#000"
   overlay_filter: "0"
   overlay_image: /assets/images/pages/acerca-de.jpg
 ---
-
-{% include multilang.html lang="en" url="/about/" %}
 
 <span class="dropcap">E</span>n estos días, en los que las exigencias de la sociedad se hacen cada vez mayores y nos vemos obligados a pasar la mayor parte de nuestro tiempo entre la oficina y las tareas de la casa, se hace cada vez más difícil disfrutar de las cosas que realmente nos apasionan, pasar tiempo con nosotros mismos,  y sacar tiempo para vacacionar. Parece que las nuevas generaciones nacen con un prototipo de vida a seguir, que lejos de hacernos felices, nos alejan de la verdadera esencia de vivir. 
 

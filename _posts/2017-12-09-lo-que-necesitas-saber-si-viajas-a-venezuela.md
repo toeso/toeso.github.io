@@ -3,11 +3,11 @@ title: "Lo que necesitas saber si viajas a Venezuela"
 author: "Virgi"
 categories: "Viajes"
 excerpt: "Qué tan complicado u oportuno sería visitar Venezuela? Realmente es tan barato como se rumora? La situación realmente es como se muestra en las noticias?"
+multilang: "en"
+multi_url: "/viajes/what-you-need-to-know-when-travelling-to-venezuela/"
 tags: 
  - Venezuela
 ---
-
-{% include multilang.html lang="en" url="/viajes/what-you-need-to-know-when-travelling-to-venezuela/" %}
 
 <span class="dropcap">A</span> propósito de nuestros recientes viajes por Venezuela, varias personas nos han hecho preguntas como qué tan complicado u oportuno sería para un turista visitar Venezuela, si realmente es tan barato como se rumora, si la situación es realmente como se muestra en las noticias, entre otras inquitudes. Así que en respuesta a esas personas que han mostrado interés o curiosidad, les decimos lo siguiente:
 
@@ -34,7 +34,7 @@ Déjanos tu comentario y con gusto resolveremos tus dudas en lo posible.
 
 ## Hechos curiosos
 
-- Los venezolanos comunmente llaman "bolos" a su moneda
+- Los venezolanos comunmente llaman "bolos" a su moneda.
 - Como los montos son tan altos, la gente tiende a restar ceros al hablar. Así que, 3 bolos realmente son 3000bs.  
 
 

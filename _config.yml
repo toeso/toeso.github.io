@@ -17,6 +17,7 @@ repository               : "toeso/toeso.github.io"
 teaser                   : # "/assets/images/teaser.jpg"
 breadcrumbs              : true # false (default)
 words_per_minute         : 200
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 comments:
   provider               : "disqus" # false (default), "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:

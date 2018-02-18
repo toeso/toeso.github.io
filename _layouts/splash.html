@@ -20,7 +20,7 @@ layout: default
         {% capture lang %}{{ page.multilang }}{% endcapture %}
         {% capture url %}{{ page.multi_url }}{% endcapture %}
         <p class="page__meta"><i class="fa fa-globe" aria-hidden="true"></i> &thinsp; {% include multilang.html lang=lang url=url %} </p>
-        {% endif %}
+      {% endif %}
       {{ content }}
     </section>
   </article>

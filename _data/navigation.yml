@@ -1,12 +1,12 @@
 # main links
 main:
-   - title: "Viajes"
-     url: /viajes/  
-   - title: "Recetas"
-     url: /recetas/    
-   - title: "Cuentos"
-     url: /cuentos/    
-   - title: "Acerca de"
-     url: /acerca-de/
+  - title: "Viajes"
+    url: /viajes/  
+  - title: "Recetas"
+    url: /recetas/    
+  - title: "Cuentos"
+    url: /cuentos/    
+  - title: "Acerca de"
+    url: /acerca-de/
 #   - title: "Quiénes somos"
 #     url: /quienes-somos/

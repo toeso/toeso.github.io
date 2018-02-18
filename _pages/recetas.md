@@ -7,8 +7,6 @@ header:
   overlay_image: /assets/images/pages/recetas.jpg
 ---
 
-# Cócteles
-
 {% assign sorted_posts = site.categories.Recetas | sort:"date" %}
 {% for post in sorted_posts %}
 {% if post.tags contains "Coctel" %}
@@ -16,16 +14,12 @@ header:
   {% endif %}
 {% endfor %}
 
-# Comida
-
 {% assign sorted_posts = site.categories.Recetas | sort:"date" %}
 {% for post in sorted_posts %}
 {% if post.tags contains "Comida" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
-
-# Postre
 
 {% assign sorted_posts = site.categories.Recetas | sort:"date" %}
 {% for post in sorted_posts %}

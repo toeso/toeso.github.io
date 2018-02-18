@@ -1,0 +1,39 @@
+.page__content {
+  /* multilang @torggler */
+   .multilang {
+     color: mix(#fff, $gray, 25%);
+     font-size: $type-size-6;
+   }
+ 
+   .dropcap {
+     font-family: 'Times New Roman', Times, serif;
+   }
+
+   p, li, dl {
+    font-size: 1em;
+    /* @torggler: justify text */
+    text-align: justify;
+    text-justify: inter-word;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+ }
+ 
+
+/* Landing
+  ============================================================================ 
+  update footer for landing pages
+
+*/
+
+.landing {
+  .page__footer {
+    background-color: #fff;
+    border-top: 0px;
+    margin-top: 0em;  
+  }
+}
+

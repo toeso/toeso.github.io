@@ -1,0 +1,8 @@
+---
+permalink: /.well-known/brave-payments-verification.txt
+---
+
+This is a Brave Payments publisher verification file.
+
+Domain: toeso.co 
+Token: 93fc48f65b7ce7357d299720fc1d660d104501dcedcebf002fbb0ce2bef1ecbe

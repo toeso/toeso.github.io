@@ -1,4 +1,5 @@
 ---
+layout: null
 permalink: /.well-known/brave-payments-verification.txt
 ---
 

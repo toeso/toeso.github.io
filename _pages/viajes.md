@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/pages/viajes.jpg
 ---
 
-{% assign sorted_posts = site.categories.Viajes | sort:"date" %}
+{% assign sorted_posts = site.categories.Viajes | sort:"date" | reverse %}
 {% for post in sorted_posts %}
   {% include archive-single.html %}
 {% endfor %}

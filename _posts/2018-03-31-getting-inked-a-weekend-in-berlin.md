@@ -19,7 +19,7 @@ gallery1:
 > {% include insta hashtag="Oidy" %} is a project based on a concept of artwork as a vehicle of energy that I, the creator assigned to it.
 What I want most for myself, others and the world is a feeling of comfort, safety and closeness. Therefore, I create psychically practical things. Talismans for the times when so many want us to be scared, I say "It will be alright! I'll keep an eye on you!" **~ Paulina Szołoch**
 
-## A bit of history
+## Background
 
 {% include figure image_path="/assets/images/posts/psoid.jpg" alt="Paulina" caption="Paulina Szołoch" class="align-left" %}
 

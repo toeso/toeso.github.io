@@ -1,5 +1,5 @@
 ---
-title: "We Love Techno"
+title: "Top Techno Clubs in Bogotá"
 author: "Virgi"
 categories: "Cuentos"
 excerpt: "En Colombia encuentras cualquier cantidad de opciones para disfrutar de una buena rumba."
@@ -27,7 +27,7 @@ Aquí, algunos de los mejores clubs de Bogotá que sin duda recomendamos:
 - [Bungalow Rooftop](https://www.facebook.com/bungalowrooftop/)
 - [Theatron](http://www.theatron.co/) 
 
-Si te gozas una de estas fiestas, déjanos ser parte y etiquétanos en Instagram [<i class="fa fa-fw fa-instagram" aria-hidden="true"></i>toeso.co](https://www.instagram.com/toeso.co/) o usa el hashtag [<i class="fa fa-fw fa-hashtag" aria-hidden="true"></i>toeso](https://www.instagram.com/explore/tags/toeso/).
+Si te gozas una de estas fiestas, déjanos ser parte y etiquétanos en Instagram {% include insta profile="toeso.co" %} o usa el hashtag {% include insta hashtag="toeso" %}.
 
 Que lo disfruten!
 

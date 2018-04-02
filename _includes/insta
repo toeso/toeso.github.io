@@ -1,0 +1,5 @@
+{% if include.profile  %}
+<a href="https://www.instagram.com/{{include.profile}}/" target="_blank"><i class="fab fa-instagram" aria-hidden="true"></i>&thinsp;{{include.profile}}</a>
+{% else %}
+<a href="https://www.instagram.com/explore/tags/{{include.hashtag}}/" target="_blank"><i class="fas fa-hashtag" aria-hidden="true"></i>&thinsp;{{include.hashtag}}</a>
+{% endif %}

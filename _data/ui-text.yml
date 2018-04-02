@@ -93,6 +93,7 @@ es: &DEFAULT_ES
   comment_error_msg          : "Lo sentimos, ha ocurrido un error al enviar su comentario. Por favor asegurese que todos los campos han sido diligenciados e intente de nuevo"
   loading_label              : "Cargando..."
   donate_title               : "Apoya nuestro proyecto"
+  search_placeholder_text    : "Buscar..."
 es-ES:
   <<: *DEFAULT_ES
 es-CO:

@@ -15,8 +15,7 @@ header:
 Inspired and quite curious, we quit our conventional jobs and started out on an adventure that keeps us motivated and learning on a daily basis.
 
 
-# Support our project
-<p> 
-  <a href="https://paypal.me/{{ site.donate.paypal_me }}"><i class="fa fa-fw fa-paypal" aria-hidden="true"></i> PayPal</a>
-  <i class="fa fa-fw fa-btc" aria-hidden="true"></i>{{ site.donate.bitcoin }}
-</p>
+{% if site.donate %}
+  <h1>Support our project</h1>
+  {% include donate.html %}
+{% endif %}

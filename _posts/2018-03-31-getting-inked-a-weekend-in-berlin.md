@@ -37,7 +37,7 @@ And then, the artist got to work...
 
 While she was at work, we asked Paulina some questions:
 
-# What inspired you?
+# What inspired you to start with this project?
 
 > I cannot pinpoint one thing or moment in particular. It comes from observing clients and myself. People come to get a tattoo at an important time in their life. Either when something changed or they would like something to change. People do believe the tattoo will change something in their life. Also, traditionally tattoos always had a spiritual or magical meaning.  
 

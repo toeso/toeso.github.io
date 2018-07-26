@@ -1,6 +1,5 @@
 ---
-title: "TO' ESO"
-excerpt: "Viajes, recetas, cuentos y..."
+title: "toeso.co"
 layout: default
 classes: landing
 hide_menu: true
@@ -9,13 +8,13 @@ hide_menu: true
 <div class="page__hero--overlay" style="background-color:'transparent'; background-image:url('/assets/images/pages/landing.jpg');">
   <div class="wrapper" style="padding-bottom: 2em; padding-top: 2em;">
     <p align="center" class="page__title" style="margin: 2em 0 0 0;font-size:1.6em;">{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
-    <h1 align="center" style="margin: 0.25em 0 1em; font-size:5em; font-weight: normal" class="page__title" itemprop="headline">
+    <h1 align="center" class="page__title" itemprop="headline">
       {{ page.title | default: site.title | markdownify | remove: "<p>" | remove: "</p>" }}
     </h1>
-    <p align="center" style="font-size:1.4em;">
-      <a href="/home/" class="btn btn--light-outline btn--large" style="padding-right: 1.8em;padding-left: 1.8em;"><i class="fas fa-fw fa-link" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a>
-      <a href="https://instagram.com/toeso.co" class="btn btn--light-outline btn--large"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a>
-      <a href="https://www.youtube.com/channel/UCcEiOTDip77inAH28MFMIkg" class="btn btn--light-outline btn--large"><i class="fab fa-fw fa-youtube-square" aria-hidden="true"></i> YouTube</a>
+    <p align="center" style="font-size:1.4em; ">
+      <a href="/home/" class="btn btn--light-outline btn--large" style="padding-right: 1.8em;padding-left: 1.8em;"><i class="fas fa-fw fa-link" aria-hidden="true"></i>&thinsp;{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a>
+      <a href="https://instagram.com/toeso.co" class="btn btn--light-outline btn--large"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i>&thinsp;Instagram</a>
+      <a href="https://www.youtube.com/channel/UCcEiOTDip77inAH28MFMIkg" class="btn btn--light-outline btn--large"><i class="fab fa-fw fa-youtube-square" aria-hidden="true"></i>&thinsp;YouTube</a>
     </p>
   </div>
 </div>

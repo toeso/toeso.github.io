@@ -9,7 +9,7 @@
 locale                   : "es-CO"
 title                    : "Viajes, recetas, cuentos y to' eso..."
 title_separator          : "-"
-name                     : "TO' ESO"
+name                     : "toeso.co"
 description              : "Viajes, recetas, cuentos y to' eso..."
 url                      : "https://toeso.co"
 baseurl                  : # the subpath of your site, e.g. "/blog"

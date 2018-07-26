@@ -1,3 +1,8 @@
+@font-face {
+  font-family: "Pacific Again";
+  src: url("/assets/fonts/Pacific\ Again.ttf");
+}
+
 .page__content {
   /* multilang @torggler */
    .multilang {
@@ -21,7 +26,17 @@
   }
 
  }
- 
+
+.archive {
+  .list__item {
+    a {
+      text-decoration: none;
+    }
+  }
+}
+
+
+
 
 /* Landing
   ============================================================================ 
@@ -29,11 +44,27 @@
 
 */
 
+
 .landing {
+  .page__title {
+    font-family: "Pacific Again";
+    font-weight: lighter;
+    font-style: normal;
+    margin: 0.25em 1 2em; 
+    font-size: 7em;
+    color: white;
+  }
   .page__footer {
     background-color: #fff;
     border-top: 0px;
-    margin-top: 0em;  
+    margin-top: 0em; 
   }
 }
 
+/**
+
+wilde ones
+sweet hand write
+generation
+
+**/

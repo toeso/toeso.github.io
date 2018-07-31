@@ -1,14 +1,15 @@
 {
     "name": "",
+    "short_name": "",
     "icons": [
         {
-            "src": "/assets/ico/android-chrome-192x192.png?v=QEM9bdvgr9",
+            "src": "/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/assets/ico/android-chrome-256x256.png?v=QEM9bdvgr9",
-            "sizes": "256x256",
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
             "type": "image/png"
         }
     ],
